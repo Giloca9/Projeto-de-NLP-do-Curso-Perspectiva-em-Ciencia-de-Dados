@@ -1,0 +1,19 @@
+[project]
+name = "projeto-de-nlp-do-curso-perspectiva-em-ciencia-de-dados"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.5.7",
+    "matplotlib>=3.10.9",
+    "nltk>=3.9.4",
+    "notebook>=7.5.6",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "plotly>=6.7.0",
+    "scikit-learn>=1.8.0",
+    "tqdm>=4.67.3",
+    "unidecode>=1.4.0",
+]
