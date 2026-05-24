@@ -2,7 +2,7 @@
 
 
 
-Este repositório contém um projeto desenvolvido para a disciplina de \*\*Perspectiva em Ciência de Dados\*\*, com o objetivo de aplicar técnicas de \*\*web scraping\*\*, \*\*processamento de linguagem natural (NLP)\*\* e \*\*análise de dados\*\* em notícias relacionadas ao Palmeiras.
+Este repositório contém um projeto desenvolvido para a disciplina de **Perspectiva em Ciência de Dados**, com o objetivo de aplicar técnicas de **web scraping**, **processamento de linguagem natural (NLP)** e **análise de dados** em notícias relacionadas ao Palmeiras.
 
 
 
@@ -10,7 +10,7 @@ O projeto busca coletar notícias publicadas na web, processar os textos obtidos
 
 
 
-\## Objetivo do Projeto
+* **Objetivo do Projeto:**
 
 
 
@@ -36,9 +36,11 @@ A proposta consiste em:
 
 \- criar uma base estruturada para possíveis aplicações de machine learning.
 
-\## Etapas Desenvolvidas
 
 
+
+
+* **Ferramentas:**
 
 
 
